@@ -1,0 +1,2 @@
+# sound-and-signal-analysis
+MATLAB for data, signal, and image analysis. After completing the course, learners will understand how machine learning methods can be used in MATLAB for data classification and prediction; how to perform data visualization, including data visualization for high dimensional datasets; how to perform image processing and analysis methods, including image filtering and image segmentation; and how to perform common signal analysis tasks, including filter design and frequency analysis.
